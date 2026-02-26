@@ -1,0 +1,63 @@
+.content {
+    width: 350px;
+    height: 200px;
+    background-color: rgb(136, 16, 16);
+    border-radius: 20px;
+    margin-top: 150px;
+    box-shadow: 0 0 15px rgb(243, 9, 9);
+}
+
+.outer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.head {
+    color: white;
+    text-align: center;
+}
+
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+label {
+    color: lightgray;
+}
+
+input {
+    border-radius: 20px;
+    color: maroon;
+    border: 2px double rgb(165, 30, 53);
+}
+
+
+button {
+    border-radius: 20px;
+    color: rgb(116, 24, 24);
+    border: 2px double rgb(163, 44, 64);
+}
+
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: rgb(185, 49, 49);
+}
+
+button:hover {
+    background-color: rgb(116, 24, 24) ;
+    color: white;
+}
+
+input:focus {
+    background-color: rgb(116, 24, 24) ;
+    color: white;
+}
