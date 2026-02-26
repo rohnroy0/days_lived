@@ -14,7 +14,7 @@
 }
 
 .head {
-    color: white;
+    color: black;
     text-align: center;
 }
 
@@ -26,27 +26,29 @@
 
 
 label {
-    color: lightgray;
+    color: black;
 }
 
 input {
     border-radius: 20px;
-    color: maroon;
+    color: black;
     border: 2px double rgb(165, 30, 53);
+    background-color: maroon;
 }
 
 
 button {
     border-radius: 20px;
-    color: rgb(116, 24, 24);
+    color: black;
     border: 2px double rgb(163, 44, 64);
+    background-color: maroon;
     margin-left: 5px;
 }
 
 
 h2 {
     text-align: center;
-    color: white;
+    color: black;
 }
 
 body {
@@ -54,11 +56,11 @@ body {
 }
 
 button:hover {
-    background-color: rgb(116, 24, 24) ;
-    color: white;
+    background-color: rgb(199, 60, 60) ;
+    color: black;
 }
 
 input:focus {
-    background-color: rgb(116, 24, 24) ;
-    color: white;
+    background-color: rgb(199, 60, 60) ;
+    color: black;
 }
