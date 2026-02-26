@@ -40,6 +40,7 @@ button {
     border-radius: 20px;
     color: rgb(116, 24, 24);
     border: 2px double rgb(163, 44, 64);
+    margin-left: 5px;
 }
 
 
@@ -49,7 +50,7 @@ h2 {
 }
 
 body {
-    background-color: rgb(185, 49, 49);
+    background-color: rgb(112, 3, 3);
 }
 
 button:hover {
